@@ -14,6 +14,7 @@
 		09743AA521DCF9BC0001E248 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09743AA321DCF9BC0001E248 /* LaunchScreen.storyboard */; };
 		09743AB021DCF9BC0001E248 /* FinalProjectSet1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09743AAF21DCF9BC0001E248 /* FinalProjectSet1Tests.swift */; };
 		09743ABB21DCF9BC0001E248 /* FinalProjectSet1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09743ABA21DCF9BC0001E248 /* FinalProjectSet1UITests.swift */; };
+		AE81310221DE60F20087A639 /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE81310121DE60F20087A639 /* LogInViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		09743AB621DCF9BC0001E248 /* FinalProjectSet1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FinalProjectSet1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		09743ABA21DCF9BC0001E248 /* FinalProjectSet1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalProjectSet1UITests.swift; sourceTree = "<group>"; };
 		09743ABC21DCF9BC0001E248 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE81310121DE60F20087A639 /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				09743A9A21DCF9BC0001E248 /* AppDelegate.swift */,
 				09743A9C21DCF9BC0001E248 /* ViewController.swift */,
 				09743A9E21DCF9BC0001E248 /* Main.storyboard */,
+				AE81310121DE60F20087A639 /* LogInViewController.swift */,
 				09743AA121DCF9BC0001E248 /* Assets.xcassets */,
 				09743AA321DCF9BC0001E248 /* LaunchScreen.storyboard */,
 				09743AA621DCF9BC0001E248 /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				09743A9D21DCF9BC0001E248 /* ViewController.swift in Sources */,
 				09743A9B21DCF9BC0001E248 /* AppDelegate.swift in Sources */,
+				AE81310221DE60F20087A639 /* LogInViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

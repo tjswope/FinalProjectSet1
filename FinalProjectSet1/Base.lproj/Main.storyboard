@@ -34,7 +34,7 @@
         <!--Login View Controller-->
         <scene sceneID="T04-mO-FsT">
             <objects>
-                <viewController id="2tN-rk-lfd" userLabel="Login View Controller" sceneMemberID="viewController">
+                <viewController id="2tN-rk-lfd" userLabel="Login View Controller" customClass="LogInViewController" customModule="FinalProjectSet1" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Lm9-AH-7mw">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
